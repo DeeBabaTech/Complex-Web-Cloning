@@ -1,0 +1,102 @@
+body{
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat:no-repeat;
+    background-color:hsl(224, 85%, 95%);
+    background-size: 100%;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    margin: 50px;
+}
+.container {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: auto;
+    width: 28.2rem;
+    padding-bottom: 10px;
+}
+.top {
+    font-weight: bold;
+    text-align: center;
+    margin: 5%; 
+    font-size: 20px;
+
+}
+.sub {
+    color: rgb(155, 151, 151);
+    text-align: center;
+    max-width: 70%;
+    margin: auto;
+    
+}
+.phase{
+    margin-top: 20px;
+    background-color:rgb(238, 238, 238);
+    width: 23rem;  
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+}
+
+p{
+    display: inline-block;
+    margin-left: 5rem;
+    
+}
+
+.icon{
+    top:0.3rem;
+    left: 0.5rem;
+    margin: 10px;
+    position: absolute;
+    
+}
+span{
+    display: flex;
+    line-height: 2rem;
+    font-weight: lighter;
+    margin-left: 1px;
+    color:rgb(92, 91, 91);
+}
+p a {
+    top:0;
+    margin: 30px;
+    right: 0.1rem;
+    position: absolute;
+}
+
+p a:hover {
+    text-decoration: none;
+}
+
+div + p {
+    font-weight: bold;
+}
+
+.proceed {
+    background-color:hsl(245, 75%, 52%);
+    width: 20.5rem;
+    color: whitesmoke;  
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 10px 20px rgb(120, 121, 184);
+    font-weight: 700;
+}
+.proceed:hover{
+    background-color: hsl(224, 23%, 55%);
+}
+
+.cancel{
+    text-align: center;
+    margin: 35px;
+    color: rgb(100, 95, 95);
+    font-weight: 700;
+    
+}
+.cancel:hover{
+    color:black;
+}
