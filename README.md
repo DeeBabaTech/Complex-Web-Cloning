@@ -1,2 +1,2 @@
-# Complex-Web-Cloning
-A trial into recreating a prototype of a random website.
+# Challenge from Frontendmentor
+My first challenge trial from Frontend Mentor
