@@ -25,7 +25,10 @@ Here is the recognized difference from my [style](/style.css)
     width: 28.2%;
 }  
 
-The difference between the former and the latter is that the former is compatible with all screen resolutions (desktop, tablet, and mobile) and it adjusts automatically since the contents are contained in a container, unlike the latter that isn't compatible with all screen resolutions except for the set resolution.
+The difference between the former and the latter is that the former is compatible 
+with all screen resolutions (desktop, tablet, and mobile) and it adjusts automatically 
+since the contents are contained in a container, unlike the latter that isn't 
+compatible with all screen resolutions except for the set resolution.
 ```
 Wanna contact me? Here you go
 
