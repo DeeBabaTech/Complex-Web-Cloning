@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution (DeeBaba's Version)
+# Frontend Mentor - Order summary card solution
 
 Good day to the great personality reading this, this piece will show a run-through of how I was able to recreate this webpage.
 
@@ -11,7 +11,7 @@ I started with writing out my html tags, from which I began to style the tags ba
 You can check out a screenshot of my project after the recreation from [design](design/myscreenshot.jpg) which looked very much like the assigned task with responsiveness across all screen pixels.
 
 Check out the solution URL and the Live Site URL from the links below:
-
+[Live Site URL](https://sharp-sinoussi-8c85e9.netlify.app/)
 [GitHub URL](https://github.com/DeeBabaTech/Frontendmentor-Challenges)
 
 I learned something crucial about the use of percentage (%) and rem when dealing with resolutions (width & height). There's a great difference in it and I recognized the difference during the course of this challenge.
@@ -25,11 +25,12 @@ Here is the recognized difference from my [style](/style.css)
     width: 28.2%;
 }  
 
-The difference between the former and the latter is that the former is compatible 
-with all screen resolutions (desktop, tablet, and mobile) and it adjusts automatically 
-since the contents are contained in a container, unlike the latter that isn't 
-compatible with all screen resolutions except for the set resolution.
+The difference between the former and the latter is that the former is compatible
+ with all screen resolutions (desktop, tablet, and mobile) and it adjusts 
+ automatically since the contents are contained in a container, unlike the 
+ latter that isn't compatible with all screen resolutions except for the set resolution.
 ```
+
 Wanna contact me? Here you go
 
 - WhatsApp - [DeeBaba](https://wa.me/message/44VHYNMDSWR2M1)
