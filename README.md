@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Order summary card solution (DeeBaba's Version)
 
 Good day to the great personality reading this, this piece will show a run-through of how I was able to recreate this webpage.
 
@@ -26,7 +26,7 @@ Here is the recognized difference from my [style](/style.css)
 }  
 
 The difference between the former and the latter is that the former is compatible with all screen resolutions (desktop, tablet, and mobile) and it adjusts automatically since the contents are contained in a container, unlike the latter that isn't compatible with all screen resolutions except for the set resolution.
-
+```
 Wanna contact me? Here you go
 
 - WhatsApp - [DeeBaba](https://wa.me/message/44VHYNMDSWR2M1)
